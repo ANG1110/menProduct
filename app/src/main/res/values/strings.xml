@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">menProduct</string>
+
+    <string-array name="labels_array">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+</resources>
+
