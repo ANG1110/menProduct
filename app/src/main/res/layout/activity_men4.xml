@@ -99,8 +99,8 @@
             <!--Description-->
             <TextView
                 android:id="@+id/product_descMen4"
-                android:layout_width="389dp"
-                android:layout_height="170dp"
+                android:layout_width="393dp"
+                android:layout_height="116dp"
                 android:layout_margin="10dp"
                 android:text="100% New and High Quality
 Colour:as the pics show

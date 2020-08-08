@@ -99,8 +99,8 @@
             <!--Description-->
             <TextView
                 android:id="@+id/product_descMen5"
-                android:layout_width="389dp"
-                android:layout_height="170dp"
+                android:layout_width="382dp"
+                android:layout_height="113dp"
                 android:layout_margin="10dp"
                 android:text="Brand : OEM
 Model : pants

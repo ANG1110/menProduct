@@ -116,6 +116,7 @@ XXL Length 79cm Bust 61cm"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/product_textMen6"
                 app:layout_constraintVertical_bias="1.0" />
+
             <!--other image-->
             <TextView
                 android:id="@+id/product_other_imageMen6"
@@ -129,6 +130,7 @@ XXL Length 79cm Bust 61cm"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/product_descMen6" />
+
             <!--Images-->
             <ImageView
                 android:id="@+id/productImage2Men6"
